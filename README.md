@@ -1,4 +1,8 @@
-# WorkAdventure Map Starter Kit
+# WorkAdventure Map Qudosoft Office
+
+Eigene erstellte Karte auf Grundlage des Beispielprojekts von WorkAdventure.
+
+---
 
 This is a starter kit to help you build your own map for [WorkAdventure](https://workadventu.re).
 
