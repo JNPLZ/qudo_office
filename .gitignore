@@ -1,3 +1,6 @@
 /node_modules/
+/dist/
 .idea/
 yarn.lock
+script.js
+script.js.map
