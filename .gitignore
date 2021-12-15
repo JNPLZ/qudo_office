@@ -2,5 +2,3 @@
 /dist/
 .idea/
 yarn.lock
-script.js
-script.js.map

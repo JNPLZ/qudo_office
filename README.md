@@ -16,7 +16,7 @@ With npm installed (comes with [node](https://nodejs.org/en/)), run the followin
 
 ```shell
 npm install
-npm run start
+npm run dev
 ```
 
 The project will run at http://localhost:8080/
